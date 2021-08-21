@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!162 &1
+EditorUserSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 4
+  m_ConfigSettings:
+    RecentlyUsedScenePath-0:
+      value: 22424703114646690c172a2b022610240303173825292a7f1e2a183de7f37b6ba2c333ebf5332c736f42cb39062c082cbc4a2a04fa0703181801f34004f1190708
+      flags: 0
+    RecentlyUsedScenePath-1:
+      value: 22424703114646690c172a2b022610240303173825292a7f1e2a183de7f37b6ba2c333ebf5332c736142cb39062c082cbc4a3b0ef80f0f191800fa4004f1190708
+      flags: 0
+    RecentlyUsedScenePath-2:
+      value: 22424703114646690c172a2b022610240303173825292a7f1e2a183de7f37b60a2c635fdee2c3e283610a06d4a7e203ce6031f0ae20418455129f4141cf05e061fcc0cdc
+      flags: 0
+    RecentlyUsedScenePath-3:
+      value: 22424703114646690c172a2b022610240303173825292a7f1e2a183de7f37b69a2d43ee8f32e3a2e765baf0f0c3f152bf718474bd5071f18050bef1d5fea1e1a05dc
+      flags: 0
+    RecentlyUsedScenePath-4:
+      value: 22424703114646690c172a2b022610240303173825292a7f1e2a183de7f37b6aa2d53feeee3e70687930e63b0d3a4f7fc2021018ff0819450400f41a08
+      flags: 0
+    RecentlyUsedScenePath-5:
+      value: 22424703114646690c172a2b022610240303173825292a7f1e2a183de7f37b6aa2d53feeee3e706d7930e63b0d3a4f7fc103041efa0a1e021e00bd3a08ef15005fd016cc0ed1
+      flags: 0
+    RecentlyUsedScenePath-6:
+      value: 22424703114646690c172a2b022610240303173825292a7f1e2a183de7f37b69a2d43ee8f32e3a2e7654af0f0c3f152bf718474bc2121a0e0240bd3d1df61316028b0dcb13dc06
+      flags: 0
+    RecentlyUsedScenePath-7:
+      value: 22424703114646690c172a2b022610240303173825292a7f1e2a183de7f37b6aa2d53feeee3e706d6d42dd3503370571b22e0806f70c0f450400f41a08
+      flags: 0
+    RecentlyUsedScenePath-8:
+      value: 22424703114646690c172a2b022610240303173825292a7f1e2a183de7f37b6ea2c439e7e93f3c283014e6281d71527fd1050705f3081e020707e9175fbf37061f8b0dcb13dc06
+      flags: 0
+    RecentlyUsedScenePath-9:
+      value: 22424703114646680e0b0227036c6c111b07142f1f2b233e2867083debf42d
+      flags: 0
+    UnityRemoteDevice:
+      value: 225f4d46245b0d4902070862342649191512
+      flags: 0
+    vcSharedLogLevel:
+      value: 0d5e400f0650
+      flags: 0
+  m_VCAutomaticAdd: 1
+  m_VCDebugCom: 0
+  m_VCDebugCmd: 0
+  m_VCDebugOut: 0
+  m_SemanticMergeMode: 2
+  m_VCShowFailedCheckout: 1
+  m_VCOverwriteFailedCheckoutAssets: 1
+  m_VCProjectOverlayIcons: 1
+  m_VCHierarchyOverlayIcons: 1
+  m_VCOtherOverlayIcons: 1
+  m_VCAllowAsyncUpdate: 1
