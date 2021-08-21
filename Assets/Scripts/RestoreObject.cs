@@ -17,6 +17,7 @@ public class RestoreObject : MonoBehaviour
         if (boxes.isOn)
         {
             boxesCube.DeleteFragmentsLast();
+            boxesCube.GetComponent<MeshRenderer>().enabled = true;
         }
     }
 }
